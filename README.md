@@ -1,1 +1,1 @@
-# Azure-Sample-Event-Grid
+# Azure-Sample-EventGrid
