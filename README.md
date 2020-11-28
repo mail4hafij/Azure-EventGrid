@@ -1,4 +1,4 @@
-# Azure-Sample-EventGrid
+# Azure-EventGrid
 
 # TODO
 
